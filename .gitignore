@@ -198,3 +198,7 @@ FakesAssemblies/
 # Visual Studio 6 workspace options file
 *.opt
 /Iconize/NuGet/nuget.ps1
+*.bak
+*\bin
+*\packages
+*\debug
