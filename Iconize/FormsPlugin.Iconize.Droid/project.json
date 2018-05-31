@@ -1,5 +1,6 @@
 ﻿{
   "dependencies": {
+    "Xamarin.Android.Support.v4": "23.3.0"
   },
   "frameworks": {
     "MonoAndroid,Version=v7.0": {}
